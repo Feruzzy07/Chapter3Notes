@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9e875a-a1af-403a-94ac-24d5f9cc2e26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/return1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/returnNotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayNotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="1513">
               <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="103" selection-end-column="4" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -40,11 +40,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/returnNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+            <state relative-caret-position="21">
+              <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arrayNotes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="633">
+              <caret line="48" column="2" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrays1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -55,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/return1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="2244">
               <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
             </state>
           </provider>
@@ -78,8 +99,10 @@
       <list>
         <option value="$PROJECT_DIR$/functionNotes.js" />
         <option value="$PROJECT_DIR$/functions1.js" />
-        <option value="$PROJECT_DIR$/returnNotes.js" />
         <option value="$PROJECT_DIR$/return1.js" />
+        <option value="$PROJECT_DIR$/returnNotes.js" />
+        <option value="$PROJECT_DIR$/arrayNotes.js" />
+        <option value="$PROJECT_DIR$/arrays1.js" />
       </list>
     </option>
   </component>
@@ -148,7 +171,9 @@
       <workItem from="1678998420767" duration="208000" />
       <workItem from="1678998639569" duration="2840000" />
       <workItem from="1679084737244" duration="3134000" />
-      <workItem from="1679343928483" duration="2342000" />
+      <workItem from="1679343928483" duration="3008000" />
+      <workItem from="1679516862937" duration="18000" />
+      <workItem from="1679689498533" duration="3174000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1678827369314</created>
@@ -164,11 +189,18 @@
       <option name="project" value="LOCAL" />
       <updated>1678914437878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished return notes">
+      <created>1679346357768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679346357768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14497000" />
+    <option name="totallyTimeSpent" value="18355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="2" width="1132" height="1047" extended-state="0" />
@@ -186,8 +218,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32932165" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49725777" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50274223" side_tool="true" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -199,7 +231,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="finished functions exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished functions exercises" />
+    <MESSAGE value="finished return notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished return notes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/functionNotes.js">
@@ -213,7 +246,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="1513">
           <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="103" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -223,18 +256,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/return1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
+        <state relative-caret-position="2244">
           <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/returnNotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        <state relative-caret-position="21">
+          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayNotes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="48" column="2" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="2" />
         </state>
       </provider>
     </entry>
