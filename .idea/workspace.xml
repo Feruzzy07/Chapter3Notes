@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9e875a-a1af-403a-94ac-24d5f9cc2e26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/magic8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/madlibs.js" beforeDir="false" afterPath="$PROJECT_DIR$/madlibs.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -93,11 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlibs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="23" selection-start-line="23" selection-end-line="92" selection-end-column="1" />
+            <state relative-caret-position="531">
+              <caret line="156" column="70" selection-start-line="156" selection-start-column="70" selection-end-line="156" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/magic8.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -135,6 +144,7 @@
         <option value="$PROJECT_DIR$/arrayNotes2.js" />
         <option value="$PROJECT_DIR$/arrays2.js" />
         <option value="$PROJECT_DIR$/madlibs.js" />
+        <option value="$PROJECT_DIR$/magic8.js" />
       </list>
     </option>
   </component>
@@ -211,7 +221,8 @@
       <workItem from="1680207879896" duration="594000" />
       <workItem from="1680295314843" duration="594000" />
       <workItem from="1681244850806" duration="3091000" />
-      <workItem from="1681331255562" duration="562000" />
+      <workItem from="1681331255562" duration="1311000" />
+      <workItem from="1681417930247" duration="1684000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1678827369314</created>
@@ -269,11 +280,18 @@
       <option name="project" value="LOCAL" />
       <updated>1681247926024</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="madlibs extension 5">
+      <created>1681331970766</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681331970766</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28889000" />
+    <option name="totallyTimeSpent" value="31322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="2" width="1132" height="1047" extended-state="0" />
@@ -308,7 +326,8 @@
     <MESSAGE value="started array notes + exercises&#10;was absent yesterday" />
     <MESSAGE value="did arrays exercises" />
     <MESSAGE value="madlibs" />
-    <option name="LAST_COMMIT_MESSAGE" value="madlibs" />
+    <MESSAGE value="madlibs extension 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="madlibs extension 5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/functionNotes.js">
@@ -383,8 +402,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/madlibs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="23" selection-start-line="23" selection-end-line="92" selection-end-column="1" />
+        <state relative-caret-position="531">
+          <caret line="156" column="70" selection-start-line="156" selection-start-column="70" selection-end-line="156" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magic8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
