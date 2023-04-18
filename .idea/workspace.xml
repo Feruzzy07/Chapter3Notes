@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9e875a-a1af-403a-94ac-24d5f9cc2e26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/objectNotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/charCreator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,11 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../chapter2notes/whileLoops.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions1.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/objectNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="81" column="28" lean-forward="true" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+            <state relative-caret-position="1207">
+              <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/charCreator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -137,6 +141,8 @@
         <option value="$PROJECT_DIR$/madlibs.js" />
         <option value="$PROJECT_DIR$/magic8.js" />
         <option value="$PROJECT_DIR$/objectNotes.js" />
+        <option value="$PROJECT_DIR$/CharacterCreators.js" />
+        <option value="$PROJECT_DIR$/charCreator.js" />
       </list>
     </option>
   </component>
@@ -217,7 +223,8 @@
       <workItem from="1681331255562" duration="1311000" />
       <workItem from="1681417930247" duration="1796000" />
       <workItem from="1681504157825" duration="2941000" />
-      <workItem from="1681763299038" duration="2929000" />
+      <workItem from="1681763299038" duration="2972000" />
+      <workItem from="1681849605451" duration="2890000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1678827369314</created>
@@ -296,15 +303,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681507100362</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="object notes">
+      <created>1681766337831</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681766337832</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37304000" />
+    <option name="totallyTimeSpent" value="40237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="2" width="1132" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21206582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -338,7 +351,8 @@
     <MESSAGE value="madlibs extension 5" />
     <MESSAGE value="magic 8" />
     <MESSAGE value="magic 8 ball extension" />
-    <option name="LAST_COMMIT_MESSAGE" value="magic 8 ball extension" />
+    <MESSAGE value="object notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="object notes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/returnNotes.js">
@@ -414,6 +428,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/magic8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../chapter2notes/forLoops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -431,17 +452,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/magic8.js">
+    <entry file="file://$PROJECT_DIR$/objectNotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="1207">
+          <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/objectNotes.js">
+    <entry file="file://$PROJECT_DIR$/charCreator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="81" column="28" lean-forward="true" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+        <state relative-caret-position="480">
+          <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
         </state>
       </provider>
     </entry>
