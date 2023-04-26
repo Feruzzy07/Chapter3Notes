@@ -111,12 +111,12 @@ if (mustard > 1){
 }
 total += mustard * 0.30;
 
-let KirbySauce = readLine.question('How many of our Kirby Sauce packets would you like!?(50 Cents each)(Enter a Positive Number): ');
-if (KirbySauce > 1){
-    order.push(`Kirby Sauce x${KirbySauce}`);
+let kirbySauce = readLine.question('How many of our Kirby Sauce packets would you like!?(50 Cents each)(Enter a Positive Number): ');
+if (kirbySauce > 1){
+    order.push(`Kirby Sauce x${kirbySauce}`);
     kirbSauce = 1;
 }
-total += KirbySauce * 0.50;
+total += kirbySauce * 0.50;
 
 
 if (yesSandwich + yesBeverage + yesFries === 3){
