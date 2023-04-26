@@ -100,19 +100,19 @@ if (fries === 'yes'){
 }
 
 let ketchup = readLine.question('How many ketchup packets would you like!?(25 Cents each)(Enter a Positive Number): ');
-if (ketchup > 1){
+if (ketchup >= 1){
     order.push(`Ketchup x${ketchup}`);
 }
 total += ketchup * 0.25;
 
 let mustard = readLine.question('How many mustard packets would you like!?(30 Cents each)(Enter a Positive Number): ');
-if (mustard > 1){
+if (mustard >= 1){
     order.push(`Mustard x${mustard}`);
 }
 total += mustard * 0.30;
 
 let kirbySauce = readLine.question('How many of our Kirby Sauce packets would you like!?(50 Cents each)(Enter a Positive Number): ');
-if (kirbySauce > 1){
+if (kirbySauce >= 1){
     order.push(`Kirby Sauce x${kirbySauce}`);
     kirbSauce = 1;
 }
